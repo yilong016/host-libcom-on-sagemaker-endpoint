@@ -1,5 +1,5 @@
 # host-libcom-on-sagemaker-endpoint
-This project introduce how to host libcom on a SageMaker Endpoint and provide testing scenarios by invoking the real-time endpoint. 
+This project introduce how to host [libcom](https://github.com/bcmi/libcom) on a SageMaker Endpoint and provide testing scenarios by invoking the real-time endpoint. 
 We use CloudFormation to build the stack and once that is created, it uses the SageMaker notebooks created in order to create the endpoint and test it.
 
 Create Stack using AWS CloudFormation:
