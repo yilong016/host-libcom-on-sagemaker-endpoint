@@ -13,6 +13,6 @@ Step2_StackIAM
 
 Step3_StackSuccess
 
-go to Cloudformation, find stack name your gave and choose notebook link in the tab resource, click and open it, you will see: build.ipynb & predictor.ipynb
-1. build.ipynb: Build you own container including libcom models and prediction algorithm; Create SageMaker endpoint and deploy it, also include Cleanup scripts.
+go to Cloudformation, find stack name your gave and choose notebook link in the tab resource, click and open it, you will see: deploy.ipynb & predictor.ipynb
+1. deploy.ipynb: Build you own container including libcom models and prediction algorithm; Create SageMaker endpoint and deploy it, also include Cleanup scripts.
 2. Predictor.ipynb: Test the deployed endpoint by a serial given sample images.
