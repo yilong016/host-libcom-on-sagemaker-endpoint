@@ -6,6 +6,7 @@ Create Stack using AWS CloudFormation:
 
 Choose Launch Stack and (if prompted) log into your AWS account: Launch Stack
 Select a unique Stack Name, ackowledge creation of IAM resources, create the stack and wait for a few minutes for it to be successfully deployed
+
 Step1_StackName
 
 Step2_StackIAM
